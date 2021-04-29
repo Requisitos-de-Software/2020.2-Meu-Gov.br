@@ -9,6 +9,7 @@
 | 25/02/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio          | Gabriela Pivetta |
 | 21/03/2021 | 0.4    | Atualização das Ferramentas      | Gabriela Pivetta          | ------- |
 | 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
+| 29/04/2021 | 0.6    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
 
 ## Justificativa de escolha do aplicativo
 
@@ -51,6 +52,7 @@ Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
 | <img alt = "Logo Telegram" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-3.png" width = "100">                                                                                                       | Telegram           | Ferramenta usada para comunicação entre os membros       |
 | <img alt = "Logo VSC" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width = "100">                                                                                 | Visual Studio Code | Ferramenta de edição de códigos utilizada pela equipe    |
 | <img alt = "Logo Github" src="https://image.flaticon.com/icons/png/512/25/25231.png" width = "100">                                                                                                                           | GitHub             | Ferramenta usada para armazenar os documentos do projeto |
+| <img alt = "Logo ThisPerson" src="https://i.ibb.co/DfDrwHv/This-X-Does-Not-Exist.gif" width = "200">                                                                                                                            | This Person Does Not Exist             | Ferramenta usada para a geração de fotos para as Personas |
 | <img alt = "Logo Corel Draw" src="https://i.pinimg.com/originals/3a/42/d6/3a42d6d1373063528fd7854ba89e9847.png" width = "100">                                                                                                | CorelDraw          | Ferramenta usada para elaborar o Rich Picture            |
 | <img alt = "Logo Photohop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
 | <img alt = "Logo MKdocs" src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width = "200">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
