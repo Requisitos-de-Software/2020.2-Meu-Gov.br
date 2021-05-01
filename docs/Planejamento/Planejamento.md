@@ -10,6 +10,7 @@
 | 21/03/2021 | 0.4    | Atualização das Ferramentas      | Gabriela Pivetta          | ------- |
 | 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
 | 29/04/2021 | 0.6    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
+| 01/05/2021 | 0.7    | Correção no cronograma           | Giovana Dionisio          | ------- |
 
 ## Justificativa de escolha do aplicativo
 
@@ -35,12 +36,12 @@ Os 5 membros da equipe possuem disponibilidade nas Terças, Quintas e Sextas de 
 | ------------------------------- | ------------------------ | ---------------------- |
 | Planejamento                    | 17/02/2021               | 19/02/2021             |
 | Elicitação                      | 05/03/2021               | 12/03/2021             |
-| Modelagem de Requisitos (Ágil)  | 15/03/2021               | 22/03/2021             |
-| Modelagem de Requisitos (Geral) | 25/03/2021               | 01/04/2021             |
+| Modelagem de Requisitos (Geral) | 15/03/2021               | 22/03/2021             |
+| Modelagem de Requisitos (Ágil)  | 25/03/2021               | 01/04/2021             |
 | Análise de Requisitos           | 08/04/2021               | 15/04/2021             |
 | Projeto Final                   | 26/04/2021               | 03/05/2021             |
 
-Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
+Estipulamos uma dedicação semanal de 8 horas por membro da equipe.
 
 ## Ferramentas
 
@@ -52,13 +53,13 @@ Estipulamos uma dedicaçao semanal de 8 horas por membro da equipe.
 | <img alt = "Logo Telegram" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-3.png" width = "100">                                                                                                       | Telegram           | Ferramenta usada para comunicação entre os membros       |
 | <img alt = "Logo VSC" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width = "100">                                                                                 | Visual Studio Code | Ferramenta de edição de códigos utilizada pela equipe    |
 | <img alt = "Logo Github" src="https://image.flaticon.com/icons/png/512/25/25231.png" width = "100">                                                                                                                           | GitHub             | Ferramenta usada para armazenar os documentos do projeto |
-| <img alt = "Logo ThisPerson" src="https://i.ibb.co/DfDrwHv/This-X-Does-Not-Exist.gif" width = "200">                                                                                                                            | This Person Does Not Exist             | Ferramenta usada para a geração de fotos para as Personas |
 | <img alt = "Logo Corel Draw" src="https://i.pinimg.com/originals/3a/42/d6/3a42d6d1373063528fd7854ba89e9847.png" width = "100">                                                                                                | CorelDraw          | Ferramenta usada para elaborar o Rich Picture            |
 | <img alt = "Logo Photohop" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width = "100">                                                                                                                      | Photoshop          | Ferramenta usada para criação dos slides finais          |
 | <img alt = "Logo MKdocs" src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width = "200">                                                                                                                            | MKdocs             | Ferramenta usada para criação do Site wiki do projeto.   |
 | <img alt = "Logo Lucidchart" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/images/LucidLogo_Website.svg" width = "200">                                                                                                                            | Lucidchart             | Ferramenta usada para criação dos diagramas de casos de uso.   |
 | <img alt = "Logo StoryboardThat" src="https://media-exp1.licdn.com/dms/image/C560BAQHipFdk10fGOw/company-logo_200_200/0/1563894542006?e=2159024400&v=beta&t=Rftgy590iiWiEZ3RHetnZnoFaHtXanNF5-sCC1qiJ8M" width = "100">                                                                                                                            | StoryboardThat             | Ferramenta usada para a elaboração de storyboards.   |
 | <img alt = "Logo Figma" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" width = "100">                                                                                                                            | Figma             | Ferramenta usada para a elaboração do protótipo da apliacação   |
+| <img alt = "Logo ThisPerson" src="https://i.ibb.co/DfDrwHv/This-X-Does-Not-Exist.gif" width = "200">                                                                                                                            | This Person Does Not Exist             | Ferramenta usada para a geração de fotos para as Personas |
 
 ## Contribuições para a Primeira Apresentação
 
