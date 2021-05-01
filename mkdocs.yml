@@ -50,9 +50,9 @@ nav:
                 - Casos de Uso: 'Analise_Requisitos/VeriCasosUso.md'
                 - Cenários: 'Analise_Requisitos/VeriCenarios.md'
                 - Especificação Suplementar: 'Analise_Requisitos/VeriEspSuplementar.md'
-                - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Histórias de Usuário: 'Analise_Requisitos/VeriHistorias.md'
                 - Introspecção: 'Analise_Requisitos/VeriIntrospeccao.md'
+                - First Things First: 'Analise_Requisitos/VeriFTF.md'
                 - Léxicos: 'Analise_Requisitos/VeriLexicos.md'
                 - MoSCoW: 'Analise_Requisitos/VeriMosCow.md'
                 - NFR Framework: 'Analise_Requisitos/VeriNFR.md'
@@ -60,7 +60,7 @@ nav:
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
                 - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
-     - Pós Rastreabilidade:
-           - Backward From: 'Pos_Rastreabilidade/backward_from.md'
-           - Foward To: ' '
+    - Pós Rastreabilidade:
+          - Backward From: 'Pos_Rastreabilidade/backward_from.md'
+          - Foward To: ' '
 docs_dir: docs/
