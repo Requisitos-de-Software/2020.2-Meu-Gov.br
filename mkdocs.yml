@@ -60,4 +60,7 @@ nav:
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
                 - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
+     - Pós Rastreabilidade:
+           - Backward From: 'Pos_Rastreabilidade/backward_from.md'
+           - Foward To:
 docs_dir: docs/
