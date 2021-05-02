@@ -27,6 +27,6 @@
 | 10 | O usuário deve ser capaz de sair do aplicativo | Após o login |
 | 11 | O sistema deve disponibilizar uma aba de Dúvidas Frequentes | Ao abrir o aplicativo |
 
-## Referências 
+## Bibliografia
 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
