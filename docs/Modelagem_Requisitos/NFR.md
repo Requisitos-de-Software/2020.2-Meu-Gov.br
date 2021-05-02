@@ -109,7 +109,7 @@
 
 <i>Figura 14: NFR de portabilidade, com propagação. Autor: Giovana Dionisio.</i>
 
-## Referências
+## Bibliografia
 <p align="justify"> PRESSMAN, Roger S.; MAXIM, Bruce R.. <b>Engenharia de software: uma abordagem profissional</b>. 8 ed. Porto Alegre: AMGH, 2016. p 210, 211. </p>
 <p align="justify"> DA SILVA, Reinaldo Antônio. <b>NFR4ES</b>: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. 155 p. Dissertação (Pós-Graduação em Ciência da Computação)- Centro de Informática, Universidade Federal de Pernambuco, 2019. </p>
 <p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. Disponível em: <a href = "https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pd">https://aprender3.unb.br/pluginfile.php/693340/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf</a>. Acesso em: 29 de março de 2021. </p>
