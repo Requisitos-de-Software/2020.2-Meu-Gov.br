@@ -15,7 +15,7 @@
 
 <img alt = "heatmap" src="../../Pre-Rastreabilidade/rich_picture.jpg" width = "600"/>
 
-## Referências Bibliográficas
+## Bibliografia
 
 
 <p align="justify">Monk,A; Howard,S. The Rich Picture. A Tool for Reasoning About Work Context. Disponível em <a href="https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf">https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf</a>. Acesso em 16 de fev. de 2021.</p>
