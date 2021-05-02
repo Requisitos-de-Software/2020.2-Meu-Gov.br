@@ -41,7 +41,7 @@ Autor: Eduarda Servidio
 | 6   | O usuário deve ter acesso ao modo de como é feita a proteção dos seus documentos                                                |
 | 7   | O sistema deve apresentar uma tela principal com as funcionalidades disponíveis para o usuário                                  |
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify">ROCKET CHAT, 2019.1. Rocket.chat. Disponível em <a href="https://marcosnbj.github.io/2019.1-RocketChat/Elicita%C3%A7%C3%A3o/Storyboard/">https://marcosnbj.github.io/2019.1-RocketChat/Elicita%C3%A7%C3%A3o/Storyboard/</a>. Acesso em 06 de mar. de 2021.</p>
 
