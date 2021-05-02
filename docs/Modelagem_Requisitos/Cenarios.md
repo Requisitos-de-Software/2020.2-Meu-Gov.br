@@ -87,6 +87,6 @@
 | Episódios | Usuário deseja realizar logout do aplicativo <br> Usuário seleciona a última aba do aplicativo <br> Usuário seleciona a opção "Sair do meu gov<span>.</span>br" |
 | Exceções  | Aplicativo indisponível <br> Conexão instável com a internet                                                                                                    |
 
-## Referências
+## Bibliografia
 
 SOMMERVILLE, Ian. Engenharia de Software, Pearson Prentice Hall.
