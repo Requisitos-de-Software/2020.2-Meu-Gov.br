@@ -45,5 +45,5 @@
 
 <br>
 
-## Referências Bibliográficas
+## Bibliografia
 <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
