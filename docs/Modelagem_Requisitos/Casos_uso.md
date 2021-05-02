@@ -15,7 +15,7 @@
 
 <p align="justify">Os Casos de uso são descrições de um conjunto de ações que um
 sistema ou mais deve desempenhar em colaboração com um ou mais usuários externos ao sistema.</p>
-<p aling="justify">Os casos de uso são esses conjuntos de ações, os usuários são os atores é o conjunto de sistemas são os sujeitos.</p>
+<p aling="justify">Os casos de uso são esses conjuntos de ações, os usuários são os atores e o conjunto de sistemas são os sujeitos.</p>
 
 ## Casos de Uso
 
