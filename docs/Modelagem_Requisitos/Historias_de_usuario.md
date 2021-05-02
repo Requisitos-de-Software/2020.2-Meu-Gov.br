@@ -102,7 +102,7 @@ Eu, como usuário logado, desejo poder visualizar a Política de Privacidade do 
 * Deve haver um botão que direcione o usuário para uma página com a Política de Privacidade do aplicativo Meu Gov<span>.</span>br.
 * Deve haver a Política de Privacidade na página aberta.
 
-## Referências Bibliográficas
+## Bibliografia
 <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.</p>
 <p align="justify">GLAUCO. User Stories - o que são? como usar?. Disponível em: <a href="https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/">https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/.</a>Acesso em: 29 de mar. de 2021</p>
 <p align="justify">Ferreira,A. Product Backlog: Épico, Histórias de Usuário e Tarefas. Disponível em: <a href="https://k21.global/blog/product-backlog-epico-historia-tarefas#:~:text=%C3%89pico%20%E2%80%93%20Epic,em%20hist%C3%B3rias%20de%20usu%C3%A1rio%20menores.">https://k21.global/blog/product-backlog-epico-historia-tarefas#:~:text=%C3%89pico%20%E2%80%93%20Epic,em%20hist%C3%B3rias%20de%20usu%C3%A1rio%20menores..</a>Acesso em: 29 de mar. de 2021</p>
