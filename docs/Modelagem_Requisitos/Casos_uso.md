@@ -143,7 +143,7 @@ Figura7: Caso de Uso - QR Code (Login). Autor: Gabriela Pivetta.
 | Fluxo Principal | 1: O ator entra no aplicativo Meu-gov.br<br>2: O ator clica em "Entrar com gov.br"<br>3: O ator digita seu CPF no campo CPF<br>4: O ator clica no botão "Avançar"<br>5: O ator digita sua senha e clica em "Entrar"<br>6: O ator clica em "Mostrar mais informações" |
 | Pós Condição    | O usuário tem acesso ao QR code do seu CPF para apresentação                                                                                                                                                                                                         |
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. p 28, 29. Disponível em: <a href = "https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pd">https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 18 de março de 2021. </p>
 <p align="justify"> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 ed. Porto Alegre: AMGH, 2016. p 210, 211. </p>
