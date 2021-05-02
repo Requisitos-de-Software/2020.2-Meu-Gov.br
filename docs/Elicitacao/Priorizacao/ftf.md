@@ -61,6 +61,6 @@ S5 |	O sistema deve realizar a validação facial dos usuários para uma maior s
  * Custo Relativo: 1
  * Risco Relativo: 1
 
-## Referências
+## Bibliografia
 
 WIEGERS, Karl E. - First Things First: Prioritizing Requirements. (https://www.processimpact.com/articles/prioritizing.pdf)
