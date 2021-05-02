@@ -216,6 +216,6 @@ Os requisitos levantados por este método foram:
 | 9   | O sistema deve disponibilizar em formato digital a Carteira de Vacinação                                             |
 | 10  | O sistema deve disponibilizar em formato digital a Certidão de Casamento                                             |
  
-## Referências
+## Bibliografia
  
 VAZQUEZ,Carlos,SIMÕES,Guilherme, Engenharia de Requisitos,1ª edição,Editora Brasport,10 de agosto de 2016.
