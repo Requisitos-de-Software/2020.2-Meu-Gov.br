@@ -4,11 +4,11 @@
 
 | Data       | Versão | Descrição                        | Autores               | Revisor          |
 | ---------- | ------ | -------------------------------- | --------------------- | ---------------- |
-| 01/05/2021 | 0.1    | Criação do Documento             | Gabriela Pivetta     | --- |
+| 01/05/2021 | 0.1    | Criação do Documento             | Gabriela Pivetta      | Pedro Haick      |
 
 ## Introdução
 
-<p text-align='justify'>A rastreabilidade de requisitos é uma característica de sistemas ondese pode ligar requisitos às suas fontes e aos artefatos criados a partir deles durante o ciclo de vida de desenvolvimento do sistema baseado nesses requisitos. Rastreabilidade de requisitos estabelece um elo entre mudanças das necessidades dos usuários e evolução dos sistemas de computação, sendo uma base para o gerenciamento do conhecimento organizacional.</p>
+<p text-align='justify'>A rastreabilidade de requisitos é uma característica de sistemas que possibilita ligar requisitos às suas fontes e aos artefatos criados a partir deles durante o ciclo de vida de desenvolvimento do sistema baseado nesses requisitos. Rastreabilidade de requisitos estabelece um elo entre mudanças das necessidades dos usuários e evolução dos sistemas de computação, sendo uma base para o gerenciamento do conhecimento organizacional.</p>
 
 ## Metodologia
 
