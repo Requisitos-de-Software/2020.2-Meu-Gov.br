@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                        | Autores               | Revisor          |
 | ---------- | ------ | -------------------------------- | --------------------- | ---------------- |
-| 01/05/2021 | 0.1    | Criação do Documento             | Pedro Haick           | ---------------- |
+| 01/05/2021 | 0.1    | Criação do Documento             | Pedro Haick           | Gabriela Pivetta |
 
 ## Introdução
 

@@ -14,21 +14,21 @@
 
 ### Meta-Modelo de Toranzo
 
-<p text-align='justify'>Para classificar as informações a serem rastreadas na nossa matriz backward-from, nós utilizamos o meta-modelo de Toranzo para classicá-las em quatro níveis:
+<p text-align='justify'>Para classificar as informações a serem rastreadas na nossa matriz backward-from, nós utilizamos o meta-modelo de Toranzo para classicá-las em quatro níveis:</p>
 
-• Ambiental: informações oriundas do contexto no qual a organização está inserida;
-• Organizacional: informações pertencentes à organização (missão, objetivos e estratégias);
-• Gerencial: informações que auxiliam a gerência do projeto.
-• Desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).
+- Ambiental: informações oriundas do contexto no qual a organização está inserida;
+- Organizacional: informações pertencentes à organização (missão, objetivos e estratégias);
+- Gerencial: informações que auxiliam a gerência do projeto.
+- Desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).
 
 Já os principais elos definidos por Toranzo são:
 
-• Satisfação: classe origem tem dependência de satisfação com a classe destino.
-• Recurso: classe origem tem dependência de recurso com a classe destino.
-• Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
-• Representação: captura a representação ou modelagem dos requisitos em outras linguagens.
-• Alocado: classe origem está relacionada à classe destino, que representa um subsistema.
-• Agregação: indica “composição” de elementos.</p>
+- Satisfação: classe origem tem dependência de satisfação com a classe destino.
+- Recurso: classe origem tem dependência de recurso com a classe destino.
+- Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
+- Representação: captura a representação ou modelagem dos requisitos em outras linguagens.
+- Alocado: classe origem está relacionada à classe destino, que representa um subsistema.
+- Agregação: indica “composição” de elementos.
 
 
 ## Matriz Backward From
