@@ -86,5 +86,5 @@ Os léxicos foram expostos em ordem alfabética no formato abaixo:
 | Verbo               | Leitura das instruções de uso do aplicativo | O usuário pode rever as instruções de uso do aplicativo sempre que desejar| Reler, reconsiderar|
 
 
-## Referências Bibliográficas
+## Bibliografia
 <p align="justify">REQUISITOS DE SOFTWARE. Módulo IV - Modelagem. Disponível em: <a href = "https://requisitos-2017-2-nubank.github.io/Nubank/siki/modelagem.html">https://requisitos-2017-2-nubank.github.io/Nubank/siki/modelagem.html</a>. Acesso em: 19 de março de 2021. </p>
