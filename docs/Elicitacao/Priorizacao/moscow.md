@@ -70,6 +70,5 @@
 | 6   | O usuário deve ter acesso ao modo de como é feita a proteção dos seus documentos                                                | Should have |
 | 7   | O sistema deve apresentar uma tela principal com as funcionalidades disponíveis para o usuário                                  | Must have   |
 
-## Referências
-
+## Bibliografia
 PIRES, Raphael. "Aprenda a usar a técnica MoSCoW nos projetos da sua agência!". Rockcontent, 2019. Disponível em: <https://rockcontent.com/br/blog/metodo-moscow/>. Acesso em: 08 de março de 2020.
