@@ -72,7 +72,7 @@ para as construções.</p>
 
 <p align="justify">Sophia, 8 anos, é estudante do Ensino Fundamental 1 e precisa praticar sua leitura e escrita. Com ajuda da sua mãe, Sophia tem procurado por aplicativos que lhe ajude nos estudos. Nessa procura, elas encontraram o aplicativo Meu Gov.br que, infelizmente, não irá te ajudar a alcançar seu objetivo.</p>
 
-## Referências Bibliográficas
+## Bibliografia
 
 <p align="justify">BARBOSA, Simone et al. "Interação Humano-Computador". </p>
 <p align="justify">Imagens das personas retiradas do site: thispersondoesnotexist.com </p>
