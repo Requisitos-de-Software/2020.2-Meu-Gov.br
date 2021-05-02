@@ -132,7 +132,7 @@ Aqui são apresentados os requisitos que foram levantados, além de uma breve de
 | 16  | O sistema deve se adaptar ao formato de cada dispositivo |
 | 17  | O aplicativo precisa se submeter à Lei Geral de Proteção de Dados (LGPD) |
 
-## Referências Bibliográficas
+## Bibliografia
 <p align="justify"> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 13. 40 slides. p 28, 29. Disponível em: <a href = "https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pd">https://aprender3.unb.br/pluginfile.php/693320/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 18 de março de 2021. </p>
 <p align="justify"> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 ed. Porto Alegre: AMGH, 2016. p 210, 211. </p>
 <p align="justify"> GOIS, Samily, SOBRINHO, Francisco. Projeto de Software Floricultura Beija-Flor, Especificação Suplementar. Versão 101.6. PHP SOFTWARE COMPANY, 2012. </p>
