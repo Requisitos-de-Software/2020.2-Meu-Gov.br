@@ -14,7 +14,7 @@ StoryBoard é a técnica que usa ilustrações em sequência para contar uma his
 
 ## Metodologia
 
-<p align="justify">Foram criadas duas personas e, a partir delas, dois storyboards, que ilustram o possível uso do aplicativo Meu Gov.br, através da ferramenta Storyboard That.</p>
+<p align="justify">Foram criadas personas e, a partir delas, dois storyboards, que ilustram o possível uso do aplicativo Meu Gov.br, através da ferramenta Storyboard That.</p>
 
 ## Storyboard
 
