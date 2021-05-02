@@ -3,11 +3,11 @@
 | Data       | Versão | Descrição                                                          | Autores          | Revisor          |
 | ---------- | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
 | 28/02/2021 | 0.1    | Criação do documento                                               | Luis Marques     | Eduarda Servidio |
-| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de tecnicas              | Luis Marques     | Eduarda Servidio |
+| 07/03/2021 | 0.2    | Adição de imagens, introdução e aplicação de técnicas              | Luis Marques     | Eduarda Servidio |
 | 08/03/2021 | 0.3    | Adição de requisitos                                               | Luis Marques     | Eduarda Servidio |
 | 08/03/2021 | 0.4    | Correção de erros e melhora do visual                              | Eduarda Servidio | Luis Gustavo     |
 | 09/03/2021 | 0.5    | Correção Para mostrar índice corretamente, inclusão de referências | Luis Marques     | Eduarda Servidio |
-| 21/03/2021 | 0.6    | Explicação e explicitação de perguntas do questionação             | Luis Marques     | Eduarda Servidio |
+| 21/03/2021 | 0.6    | Explicação e explicitação de perguntas do questionário             | Luis Marques     | Eduarda Servidio |
 | 21/03/2021 | 0.7    | Correção de Erros de Digitação e Ortográficos                      | Eduarda Servidio | Luis Gustavo     |
 
 ## Introdução
@@ -20,7 +20,7 @@
  
 <img alt="genero" src="../Images_questionario/Google-Forms-logo.png" width= "600"/>
  
-<p align="justify">O grupo montou um questionário, pela ferramenta Google Forms, com 15 perguntas. Sendo a última uma questão aberta solicitando um feedback sobre novas funções ou uma sugestão que o usuário quisesse apontar. A depender das respostas que os usuários davam, perguntas diferentes apareciam para eles, visto não fazer sentido perguntar há uma pessoa que não utiliza o aplicativo meu-gov.br, a experiência dela com o aplicativo, por exemplo. Nosso Questionário foi aplicado entre os dias 01/03/2021 até o dia 06/03/2021, sendo divulgado pelas redes sociais dos integrantes, e por outros usuários que acabavam compartilhando este formulário com outras pessoas, quando esses dados foram colhidos para análise. Tivemos 120 respostas.</p>
+<p align="justify">O grupo montou um questionário, pela ferramenta Google Forms, com 15 perguntas. Sendo a última uma questão aberta solicitando um feedback sobre novas funções ou uma sugestão que o usuário quisesse apontar. A depender das respostas que os usuários davam, perguntas diferentes apareciam para eles, visto não fazer sentido perguntar há uma pessoa que não utiliza o aplicativo meu-gov.br, a experiência dela com o aplicativo, por exemplo. Nosso Questionário foi aplicado entre os dias 01/03/2021 até o dia 06/03/2021, sendo divulgado pelas redes sociais dos integrantes, e por outros usuários que acabavam compartilhando este formulário com outras pessoas. Quando esses dados foram colhidos para análise, tivemos 120 respostas.</p>
  
 <p align="justify">Como o formulário alterava as perguntas com base nas respostas anteriores dos usuários, por apresentar diversos caminhos possíveis vamos fazer esta diferenciação ao decorrer do texto, de forma a como vamos apresentando estes resultados. O termo documentos digitais indicados abaixo representam os documentos oficiais de identificação ou de posse, como CNH, CPF, identidade, certidão de nascimento, etc. </p>
  
