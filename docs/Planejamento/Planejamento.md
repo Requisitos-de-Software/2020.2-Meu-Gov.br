@@ -4,13 +4,13 @@
 
 | Data       | Versão | Descrição                        | Autores                   | Revisor |
 | ---------- | ------ | -------------------------------- | ------------------------- | ------- |
-| 16/02/2021 | 0.1    | Criação da Wiki Planejamento     | Eduarda S. e Luis Gustavo | ------- |
+| 16/02/2021 | 0.1    | Criação da Wiki Planejamento     | Eduarda S. e Luis Gustavo | Gabriela Pivetta |
 | 25/02/2021 | 0.2    | Atualização da Wiki Planejamento | Todos os membros          | Eduarda Servidio |
 | 25/02/2021 | 0.3    | Correção de Erros de Digitação   | Eduarda Servidio          | Gabriela Pivetta |
-| 21/03/2021 | 0.4    | Atualização das Ferramentas      | Gabriela Pivetta          | ------- |
-| 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
-| 29/04/2021 | 0.6    | Atualização das Ferramentas      | Giovana Dionisio          | ------- |
-| 01/05/2021 | 0.7    | Correção no cronograma           | Giovana Dionisio          | ------- |
+| 21/03/2021 | 0.4    | Atualização das Ferramentas      | Gabriela Pivetta          | Eduarda Servidio |
+| 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | Eduarda Servidio |
+| 29/04/2021 | 0.6    | Atualização das Ferramentas      | Giovana Dionisio          | Eduarda Servidio |
+| 01/05/2021 | 0.7    | Correção no cronograma           | Giovana Dionisio          | Eduarda Servidio |
 
 ## Justificativa de escolha do aplicativo
 
