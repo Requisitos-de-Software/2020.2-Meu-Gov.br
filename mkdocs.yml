@@ -22,7 +22,7 @@ nav:
           - Apresentação 03: 'Apresentacao/apresentacao3.md'
           - Apresentacao 04: 'Apresentacao/apresentacao4.md'
           - Apresentacao 05: 'Apresentacao/apresentacao5.md'
-          #  - Apresentacao 06: ''
+          - Apresentacao Final: 'Apresentacao/apresentacao6.md'
     - Planejamento: 'Planejamento/Planejamento.md'
     - Pré-rastreabilidade: 'Pre-Rastreabilidade/Rich_Picture.md'
     - Elicitação:
