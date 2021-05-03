@@ -11,6 +11,7 @@
 | 15/04/2021 | 0.5    | Atualização das Ferramentas      | Giovana Dionisio          | Eduarda Servidio |
 | 29/04/2021 | 0.6    | Atualização das Ferramentas      | Giovana Dionisio          | Eduarda Servidio |
 | 01/05/2021 | 0.7    | Correção no cronograma           | Giovana Dionisio          | Eduarda Servidio |
+| 02/05/2021 | 0.7    | Atualização das Ferramentas      | Giovana Dionisio          | Eduarda Servidio |
 
 ## Justificativa de escolha do aplicativo
 
@@ -60,6 +61,7 @@ Estipulamos uma dedicação semanal de 8 horas por membro da equipe.
 | <img alt = "Logo StoryboardThat" src="https://media-exp1.licdn.com/dms/image/C560BAQHipFdk10fGOw/company-logo_200_200/0/1563894542006?e=2159024400&v=beta&t=Rftgy590iiWiEZ3RHetnZnoFaHtXanNF5-sCC1qiJ8M" width = "100">                                                                                                                            | StoryboardThat             | Ferramenta usada para a elaboração de storyboards.   |
 | <img alt = "Logo Figma" src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" width = "100">                                                                                                                            | Figma             | Ferramenta usada para a elaboração do protótipo da aplicação   |
 | <img alt = "Logo ThisPerson" src="https://i.ibb.co/DfDrwHv/This-X-Does-Not-Exist.gif" width = "200">                                                                                                                            | This Person Does Not Exist             | Ferramenta usada para a geração de fotos para as Personas |
+| <img alt = "Logo Draw.io" src="https://drawio-app.com/wp-content/uploads/2020/04/draw.io_logo_symbol_250x250.png" width = "100">                                                                                                                            | Draw.io            | Ferramenta usada para a geração dos NFRs |
 
 ## Contribuições para a Primeira Apresentação
 
