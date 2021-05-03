@@ -20,9 +20,9 @@ nav:
           - Apresentação 01: 'Apresentacao/apresentacao1.md'
           - Apresentação 02: 'Apresentacao/apresentacao2.md'
           - Apresentação 03: 'Apresentacao/apresentacao3.md'
-          - Apresentacao 04: 'Apresentacao/apresentacao4.md'
-          - Apresentacao 05: 'Apresentacao/apresentacao5.md'
-          - Apresentacao Final: 'Apresentacao/apresentacao6.md'
+          - Apresentação 04: 'Apresentacao/apresentacao4.md'
+          - Apresentação 05: 'Apresentacao/apresentacao5.md'
+          - Apresentação Final: 'Apresentacao/apresentacao6.md'
     - Planejamento: 'Planejamento/Planejamento.md'
     - Pré-rastreabilidade: 'Pre-Rastreabilidade/Rich_Picture.md'
     - Elicitação:
@@ -60,7 +60,7 @@ nav:
                 - Pré-Rastreabilidade: 'Analise_Requisitos/VeriPreRastreabilidade.md'
                 - Questionário: 'Analise_Requisitos/VeriQuestionario.md'
                 - Storyboard: 'Analise_Requisitos/VeriStoryboard.md'
-    - Pós Rastreabilidade:
+    - Pós-Rastreabilidade:
           - Backward From: 'Pos_Rastreabilidade/backward_from.md'
           - Forward To: 'Pos_Rastreabilidade/forward_to.md'
 docs_dir: docs/
